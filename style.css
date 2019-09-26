@@ -1,0 +1,17 @@
+img{
+    display:inline;
+
+}
+h2{
+    display:inline;
+}
+#content{
+    position:fixed;
+    
+
+}
+#clock{
+    position:fixed;
+    left:240px;
+    top: 50px;
+}
